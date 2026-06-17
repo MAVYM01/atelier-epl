@@ -1122,14 +1122,14 @@ if __name__ == '__main__':
     os.makedirs('logs', exist_ok=True)
     
     init_db()
-    
+    #MAVYM
     print("="*60)
     print(" ATELIER MÉCANIQUE EPL - VERSION 1.0")
     print(" Juin 2026 - École Polytechnique de Lomé")
     print("="*60)
     print(" Base de données SQLite: database.db")
     print("="*60)
-    print(" COMPTE ADMIN PAR DÉFAUT :")
+    print(" COMPTE ADMIN PAR DÉFAUT MAVYM:")
     print("   Email: admin@epl.tg")
     print("   Mot de passe: AdminEPL2026!")
     print("="*60)
